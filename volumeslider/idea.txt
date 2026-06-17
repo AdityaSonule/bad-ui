@@ -1,4 +1,0 @@
-volume rocker
-signin create acc
-get membership for access
-change volume
