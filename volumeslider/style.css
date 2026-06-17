@@ -1,0 +1,56 @@
+  body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 20px;
+      }
+
+      .title {
+        font-size: 32px;
+        font-weight: bold;
+        color: #333;
+        text-align: center;
+      }
+
+      .button-container,
+      .form-container {
+        text-align: center;
+        margin-top: 20px;
+      }
+
+      .signin,
+      .create-account,
+      .submit-button,
+      .back-button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        margin: 5px;
+      }
+
+      .create-account {
+        background-color: #008CBA;
+      }
+
+      .back-button {
+        background-color: #555;
+      }
+
+      .form-field {
+        display: block;
+        width: 280px;
+        margin: 10px auto;
+        padding: 10px;
+        border: 1px solid #bbb;
+        border-radius: 4px;
+        font-size: 16px;
+      }
+
+      .message {
+        color: #333;
+        margin-top: 15px;
+      }
